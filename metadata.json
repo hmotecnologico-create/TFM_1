@@ -1,0 +1,7 @@
+{
+  "name": "Agente de auditoría documental para cumplimiento normativo",
+  "description": "Sistema de análisis basado en OCR y modelos de lenguaje para la verificación de cumplimiento ISO/IEC 27001:2022, diseñado para auditorías iniciales e inspecciones de seguimiento.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
